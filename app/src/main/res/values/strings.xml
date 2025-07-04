@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMInow</string>
+    <string name="etWight">Enter your weight</string>
+    <string name="etHeight">Enter your height</string>
+    <string name="apptitle">BMInow</string>
+</resources>
